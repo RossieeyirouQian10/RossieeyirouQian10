@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RossieeyirouQian10
 - 👀 I’m interested in data, data science.
 - 🌱 I’m currently learning python, machine learning, deep learning, big data and more about data and so on.
-- 💞️ I’m looking to collaborate on exoloring data much more.
+- 💞️ I’m looking to collaborate on exploring data much more.
 - 📫 How to reach me: Linkedin: http://linkedin.com/in/yirou-qian-03785119b
 
 <!---
